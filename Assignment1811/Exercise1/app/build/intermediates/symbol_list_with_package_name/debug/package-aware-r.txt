@@ -3213,8 +3213,10 @@ id easeInOut
 id easeOut
 id east
 id edge
+id editTextDiaChi
 id editTextHoTen
 id editTextMSSV
+id editTextSoDienThoai
 id edit_query
 id elastic
 id embed
@@ -3309,6 +3311,7 @@ id material_timepicker_ok_button
 id material_timepicker_view
 id material_value_index
 id matrix
+id menuAdd
 id message
 id middle
 id mini
@@ -3655,7 +3658,9 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_add_student
 layout activity_main
+layout activity_student_detail
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -3734,6 +3739,7 @@ layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
+menu main_menu
 mipmap ic_launcher
 mipmap ic_launcher_foreground
 mipmap ic_launcher_round

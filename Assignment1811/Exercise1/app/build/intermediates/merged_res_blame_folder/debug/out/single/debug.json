@@ -1,62 +1,78 @@
 [
     {
-        "merged": "com.example.studentmanager.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.studentmanager.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "/Users/macbook/.gradle/daemon/8.5/com.example.studentmanager.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_foreground.xml.flat",
+        "source": "/Users/macbook/.gradle/daemon/8.5/com.example.studentmanager.app-main-33:/mipmap-xxhdpi/ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.studentmanager.app-merged_res-31:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.example.studentmanager.app-main-33:/drawable/ic_launcher_foreground.xml"
+        "merged": "/Users/macbook/.gradle/daemon/8.5/com.example.studentmanager.app-merged_res-31:/layout_activity_add_student.xml.flat",
+        "source": "/Users/macbook/.gradle/daemon/8.5/com.example.studentmanager.app-main-33:/layout/activity_add_student.xml"
     },
     {
-        "merged": "com.example.studentmanager.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.xml.flat",
-        "source": "com.example.studentmanager.app-main-33:/mipmap-xxxhdpi/ic_launcher.xml"
+        "merged": "/Users/macbook/.gradle/daemon/8.5/com.example.studentmanager.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.xml.flat",
+        "source": "/Users/macbook/.gradle/daemon/8.5/com.example.studentmanager.app-main-33:/mipmap-xxhdpi/ic_launcher.xml"
     },
     {
-        "merged": "com.example.studentmanager.app-merged_res-31:/mipmap-mdpi_ic_launcher.xml.flat",
-        "source": "com.example.studentmanager.app-main-33:/mipmap-mdpi/ic_launcher.xml"
+        "merged": "/Users/macbook/.gradle/daemon/8.5/com.example.studentmanager.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.xml.flat",
+        "source": "/Users/macbook/.gradle/daemon/8.5/com.example.studentmanager.app-main-33:/mipmap-xxxhdpi/ic_launcher.xml"
     },
     {
-        "merged": "com.example.studentmanager.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.xml.flat",
-        "source": "com.example.studentmanager.app-main-33:/mipmap-xxhdpi/ic_launcher.xml"
+        "merged": "/Users/macbook/.gradle/daemon/8.5/com.example.studentmanager.app-merged_res-31:/menu_main_menu.xml.flat",
+        "source": "/Users/macbook/.gradle/daemon/8.5/com.example.studentmanager.app-main-33:/menu/main_menu.xml"
     },
     {
-        "merged": "com.example.studentmanager.app-merged_res-31:/mipmap-xhdpi_ic_launcher_foreground.xml.flat",
-        "source": "com.example.studentmanager.app-main-33:/mipmap-xhdpi/ic_launcher_foreground.xml"
+        "merged": "/Users/macbook/.gradle/daemon/8.5/com.example.studentmanager.app-merged_res-31:/mipmap-mdpi_ic_launcher_foreground.xml.flat",
+        "source": "/Users/macbook/.gradle/daemon/8.5/com.example.studentmanager.app-main-33:/mipmap-mdpi/ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.studentmanager.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_foreground.xml.flat",
-        "source": "com.example.studentmanager.app-main-33:/mipmap-xxhdpi/ic_launcher_foreground.xml"
+        "merged": "/Users/macbook/.gradle/daemon/8.5/com.example.studentmanager.app-merged_res-31:/mipmap-mdpi_ic_launcher.xml.flat",
+        "source": "/Users/macbook/.gradle/daemon/8.5/com.example.studentmanager.app-main-33:/mipmap-mdpi/ic_launcher.xml"
     },
     {
-        "merged": "com.example.studentmanager.app-merged_res-31:/mipmap-hdpi_ic_launcher.xml.flat",
-        "source": "com.example.studentmanager.app-main-33:/mipmap-hdpi/ic_launcher.xml"
+        "merged": "/Users/macbook/.gradle/daemon/8.5/com.example.studentmanager.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/macbook/.gradle/daemon/8.5/com.example.studentmanager.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.studentmanager.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_foreground.xml.flat",
-        "source": "com.example.studentmanager.app-main-33:/mipmap-xxxhdpi/ic_launcher_foreground.xml"
+        "merged": "/Users/macbook/.gradle/daemon/8.5/com.example.studentmanager.app-merged_res-31:/mipmap-xhdpi_ic_launcher.xml.flat",
+        "source": "/Users/macbook/.gradle/daemon/8.5/com.example.studentmanager.app-main-33:/mipmap-xhdpi/ic_launcher.xml"
     },
     {
-        "merged": "com.example.studentmanager.app-merged_res-31:/layout_item_student.xml.flat",
-        "source": "com.example.studentmanager.app-main-33:/layout/item_student.xml"
+        "merged": "/Users/macbook/.gradle/daemon/8.5/com.example.studentmanager.app-merged_res-31:/mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "/Users/macbook/.gradle/daemon/8.5/com.example.studentmanager.app-main-33:/mipmap-hdpi/ic_launcher.xml"
     },
     {
-        "merged": "com.example.studentmanager.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.studentmanager.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "/Users/macbook/.gradle/daemon/8.5/com.example.studentmanager.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "/Users/macbook/.gradle/daemon/8.5/com.example.studentmanager.app-main-33:/layout/activity_main.xml"
     },
     {
-        "merged": "com.example.studentmanager.app-merged_res-31:/mipmap-hdpi_ic_launcher_foreground.xml.flat",
-        "source": "com.example.studentmanager.app-main-33:/mipmap-hdpi/ic_launcher_foreground.xml"
+        "merged": "com.example.studentmanager.app-merged_res-31:/layout_activity_student_detail.xml.flat",
+        "source": "com.example.studentmanager.app-main-33:/layout/activity_student_detail.xml"
     },
     {
-        "merged": "com.example.studentmanager.app-merged_res-31:/mipmap-mdpi_ic_launcher_foreground.xml.flat",
-        "source": "com.example.studentmanager.app-main-33:/mipmap-mdpi/ic_launcher_foreground.xml"
+        "merged": "/Users/macbook/.gradle/daemon/8.5/com.example.studentmanager.app-merged_res-31:/mipmap-xhdpi_ic_launcher_foreground.xml.flat",
+        "source": "/Users/macbook/.gradle/daemon/8.5/com.example.studentmanager.app-main-33:/mipmap-xhdpi/ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.studentmanager.app-merged_res-31:/layout_activity_main.xml.flat",
-        "source": "com.example.studentmanager.app-main-33:/layout/activity_main.xml"
+        "merged": "/Users/macbook/.gradle/daemon/8.5/com.example.studentmanager.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/macbook/.gradle/daemon/8.5/com.example.studentmanager.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "com.example.studentmanager.app-merged_res-31:/mipmap-xhdpi_ic_launcher.xml.flat",
-        "source": "com.example.studentmanager.app-main-33:/mipmap-xhdpi/ic_launcher.xml"
+        "merged": "/Users/macbook/.gradle/daemon/8.5/com.example.studentmanager.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_foreground.xml.flat",
+        "source": "/Users/macbook/.gradle/daemon/8.5/com.example.studentmanager.app-main-33:/mipmap-xxxhdpi/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/macbook/.gradle/daemon/8.5/com.example.studentmanager.app-merged_res-31:/mipmap-hdpi_ic_launcher_foreground.xml.flat",
+        "source": "/Users/macbook/.gradle/daemon/8.5/com.example.studentmanager.app-main-33:/mipmap-hdpi/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/macbook/.gradle/daemon/8.5/com.example.studentmanager.app-merged_res-31:/layout_item_student.xml.flat",
+        "source": "/Users/macbook/.gradle/daemon/8.5/com.example.studentmanager.app-main-33:/layout/item_student.xml"
+    },
+    {
+        "merged": "/Users/macbook/.gradle/daemon/8.5/com.example.studentmanager.app-merged_res-31:/layout_activity_student_detail.xml.flat",
+        "source": "/Users/macbook/.gradle/daemon/8.5/com.example.studentmanager.app-main-33:/layout/activity_student_detail.xml"
+    },
+    {
+        "merged": "/Users/macbook/.gradle/daemon/8.5/com.example.studentmanager.app-merged_res-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/macbook/.gradle/daemon/8.5/com.example.studentmanager.app-main-33:/drawable/ic_launcher_foreground.xml"
     }
 ]

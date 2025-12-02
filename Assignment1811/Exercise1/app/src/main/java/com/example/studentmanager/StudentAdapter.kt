@@ -9,14 +9,18 @@ import android.widget.TextView
 
 class StudentAdapter(
     private val activity: MainActivity,
-    private val students: List<MainActivity.Student>,
+    private var students: List<Student>,
     private val onItemClick: (Int) -> Unit,
     private val onDeleteClick: (Int) -> Unit
 ) : BaseAdapter() {
     
+    fun updateStudents(newStudents: List<Student>) {
+        students = newStudents
+    }
+    
     override fun getCount(): Int = students.size
     
-    override fun getItem(position: Int): MainActivity.Student = students[position]
+    override fun getItem(position: Int): Student = students[position]
     
     override fun getItemId(position: Int): Long = position.toLong()
     
@@ -46,4 +50,3 @@ class StudentAdapter(
         return view
     }
 }
-

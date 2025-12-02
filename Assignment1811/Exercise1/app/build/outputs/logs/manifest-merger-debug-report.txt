@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/macbook/Downloads/Android/Assignment1811/Exercise1/app/src/main/AndroidManifest.xml:2:1-20:12
-INJECTED from /Users/macbook/Downloads/Android/Assignment1811/Exercise1/app/src/main/AndroidManifest.xml:2:1-20:12
-INJECTED from /Users/macbook/Downloads/Android/Assignment1811/Exercise1/app/src/main/AndroidManifest.xml:2:1-20:12
-INJECTED from /Users/macbook/Downloads/Android/Assignment1811/Exercise1/app/src/main/AndroidManifest.xml:2:1-20:12
+ADDED from /Users/macbook/Downloads/Android/Assignment1811/Exercise1/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/macbook/Downloads/Android/Assignment1811/Exercise1/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/macbook/Downloads/Android/Assignment1811/Exercise1/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/macbook/Downloads/Android/Assignment1811/Exercise1/app/src/main/AndroidManifest.xml:2:1-28:12
 MERGED from [com.google.android.material:material:1.10.0] /Users/macbook/.gradle/caches/transforms-3/920a9f7f99f4bdb5a13c0157ade101c8/transformed/material-1.10.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/macbook/.gradle/caches/transforms-3/569fdfc6d43231e291d645ce7e700224/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/macbook/.gradle/caches/transforms-3/cdb28916be82ce7186afc089fa8f5c66/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
@@ -55,8 +55,8 @@ MERGED from [androidx.print:print:1.0.0] /Users/macbook/.gradle/caches/transform
 	xmlns:android
 		ADDED from /Users/macbook/Downloads/Android/Assignment1811/Exercise1/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/macbook/Downloads/Android/Assignment1811/Exercise1/app/src/main/AndroidManifest.xml:5:5-18:19
-INJECTED from /Users/macbook/Downloads/Android/Assignment1811/Exercise1/app/src/main/AndroidManifest.xml:5:5-18:19
+ADDED from /Users/macbook/Downloads/Android/Assignment1811/Exercise1/app/src/main/AndroidManifest.xml:5:5-26:19
+INJECTED from /Users/macbook/Downloads/Android/Assignment1811/Exercise1/app/src/main/AndroidManifest.xml:5:5-26:19
 MERGED from [com.google.android.material:material:1.10.0] /Users/macbook/.gradle/caches/transforms-3/920a9f7f99f4bdb5a13c0157ade101c8/transformed/material-1.10.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.10.0] /Users/macbook/.gradle/caches/transforms-3/920a9f7f99f4bdb5a13c0157ade101c8/transformed/material-1.10.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/macbook/.gradle/caches/transforms-3/569fdfc6d43231e291d645ce7e700224/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
@@ -101,6 +101,22 @@ category#android.intent.category.LAUNCHER
 ADDED from /Users/macbook/Downloads/Android/Assignment1811/Exercise1/app/src/main/AndroidManifest.xml:15:17-77
 	android:name
 		ADDED from /Users/macbook/Downloads/Android/Assignment1811/Exercise1/app/src/main/AndroidManifest.xml:15:27-74
+activity#com.example.studentmanager.AddStudentActivity
+ADDED from /Users/macbook/Downloads/Android/Assignment1811/Exercise1/app/src/main/AndroidManifest.xml:18:9-21:58
+	android:parentActivityName
+		ADDED from /Users/macbook/Downloads/Android/Assignment1811/Exercise1/app/src/main/AndroidManifest.xml:21:13-55
+	android:exported
+		ADDED from /Users/macbook/Downloads/Android/Assignment1811/Exercise1/app/src/main/AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from /Users/macbook/Downloads/Android/Assignment1811/Exercise1/app/src/main/AndroidManifest.xml:19:13-47
+activity#com.example.studentmanager.StudentDetailActivity
+ADDED from /Users/macbook/Downloads/Android/Assignment1811/Exercise1/app/src/main/AndroidManifest.xml:22:9-25:58
+	android:parentActivityName
+		ADDED from /Users/macbook/Downloads/Android/Assignment1811/Exercise1/app/src/main/AndroidManifest.xml:25:13-55
+	android:exported
+		ADDED from /Users/macbook/Downloads/Android/Assignment1811/Exercise1/app/src/main/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from /Users/macbook/Downloads/Android/Assignment1811/Exercise1/app/src/main/AndroidManifest.xml:23:13-50
 uses-sdk
 INJECTED from /Users/macbook/Downloads/Android/Assignment1811/Exercise1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/macbook/Downloads/Android/Assignment1811/Exercise1/app/src/main/AndroidManifest.xml
