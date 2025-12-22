@@ -32,14 +32,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name="com.example.studentmanager.AddStudentActivity"
-            android:exported="false"
-            android:parentActivityName="com.example.studentmanager.MainActivity" />
-        <activity
-            android:name="com.example.studentmanager.StudentDetailActivity"
-            android:exported="false"
-            android:parentActivityName="com.example.studentmanager.MainActivity" />
 
         <provider
             android:name="androidx.startup.InitializationProvider"
@@ -55,6 +47,13 @@
                 android:name="androidx.profileinstaller.ProfileInstallerInitializer"
                 android:value="androidx.startup" />
         </provider>
+
+        <uses-library
+            android:name="androidx.window.extensions"
+            android:required="false" />
+        <uses-library
+            android:name="androidx.window.sidecar"
+            android:required="false" />
 
         <receiver
             android:name="androidx.profileinstaller.ProfileInstallReceiver"

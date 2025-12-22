@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.studentmanager.app-mergeDebugResources-50:/layout/fragment_add_student.xml",
+        "source": "com.example.studentmanager.app-main-53:/layout/fragment_add_student.xml"
+    },
+    {
+        "merged": "com.example.studentmanager.app-mergeDebugResources-50:/layout/fragment_update_student.xml",
+        "source": "com.example.studentmanager.app-main-53:/layout/fragment_update_student.xml"
+    }
+]

@@ -1,10 +1,20 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.studentmanager.app-mergeDebugResources-29:/values-v16/values-v16.xml",
+            "outputFile": "com.example.studentmanager.app-mergeDebugResources-49:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/macbook/.gradle/caches/transforms-3/df0cd03a14f2fe9204e11ea3400d1502/transformed/appcompat-1.6.1/res/values-v16/values-v16.xml",
+                    "source": "/Users/macbook/.gradle/caches/transforms-3/3c41c60219090ac9c94949c41337ae97/transformed/core-1.9.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/Users/macbook/.gradle/caches/transforms-3/cd8b1b1c5406618296e933846ba0e131/transformed/appcompat-1.6.1/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -20,16 +30,6 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
-                    }
-                },
-                {
-                    "source": "/Users/macbook/.gradle/caches/transforms-3/7d433b34ca45421504eb84b92a8d96dc/transformed/core-1.9.0/res/values-v16/values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
                     }
                 }
             ]

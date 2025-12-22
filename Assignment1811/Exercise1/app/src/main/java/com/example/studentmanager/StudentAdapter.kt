@@ -8,7 +8,7 @@ import android.widget.ImageButton
 import android.widget.TextView
 
 class StudentAdapter(
-    private val activity: MainActivity,
+    private val context: android.content.Context,
     private var students: List<Student>,
     private val onItemClick: (Int) -> Unit,
     private val onDeleteClick: (Int) -> Unit
@@ -25,7 +25,7 @@ class StudentAdapter(
     override fun getItemId(position: Int): Long = position.toLong()
     
     override fun getView(position: Int, convertView: View?, parent: ViewGroup?): View {
-        val view = convertView ?: LayoutInflater.from(activity)
+        val view = convertView ?: LayoutInflater.from(context)
             .inflate(R.layout.item_student, parent, false)
         
         val student = students[position]
